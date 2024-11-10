@@ -76,7 +76,7 @@ function App() {
                   onClick={() =>
                     setVideo((prev) => ({
                       ...prev,
-                      url: "/public/NotionButtonCreation.mp4",
+                      url: "/NotionButtonCreation.mp4",
                     }))
                   }
                   className="px-4 py-2 bg-gray-800 text-white rounded cursor-pointer hover:bg-slate-600"
